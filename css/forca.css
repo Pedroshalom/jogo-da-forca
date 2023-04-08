@@ -222,6 +222,11 @@ body{
 
 /*#region MEDIA QUERY*/
 @media (min-width: 321px){
+
+    body {
+        background-color: goldenrod;;
+    }    
+
     .teclas button{
         width: 25px;
         height: 25px;
